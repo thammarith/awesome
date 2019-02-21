@@ -9,8 +9,7 @@ My personal curated list of awesome websites 😎
 - [Extensions](#extensions)
   - [Mozilla Firefox](#mozilla-firefox)
   - [Visual Studio Code](#visual-studio-code)
-    - [Language Specific](#language-specific)
-      - [Markdown](#markdown)
+    - [Markdown](#markdown)
     - [Trivial](#trivial)
 - [Themes](#themes)
   - [Dark](#dark)
@@ -31,9 +30,7 @@ My personal curated list of awesome websites 😎
 
 ### Visual Studio Code
 
-#### Language Specific
-
-##### Markdown
+#### Markdown
 
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
