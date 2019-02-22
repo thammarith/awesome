@@ -21,6 +21,12 @@ My personal curated list of awesome websites 😎
 
 - [Custom CSS Checkbox and Radio Button Generator!](http://www.csscheckbox.com/css-checkbox-generator.php) - Generates custom CSS checkboxes & radio buttons from the images of unchecked and checked boxes
 
+## Learning
+
+### Music
+
+- [INDEX FOR ENJOYMENT OF MUSIC 12 iLGs](https://wwnorton.com/college/music/ilg/ENJ_12) - Teaches how to listen to legendary classcial music pieces with their interactive websites.
+
 ## Extensions
 
 ### Mozilla Firefox
