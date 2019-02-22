@@ -6,6 +6,8 @@ My personal curated list of awesome websites 😎
 
 - [Web development](#web-development)
   - [CSS](#css)
+- [Learning](#learning)
+  - [Music](#music)
 - [Extensions](#extensions)
   - [Mozilla Firefox](#mozilla-firefox)
   - [Visual Studio Code](#visual-studio-code)
