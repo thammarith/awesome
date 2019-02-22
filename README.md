@@ -6,6 +6,7 @@ My personal curated list of awesome websites 😎
 
 - [Web development](#web-development)
   - [CSS](#css)
+  - [Vue](#vue)
 - [Learning](#learning)
   - [Music](#music)
 - [Extensions](#extensions)
@@ -22,6 +23,10 @@ My personal curated list of awesome websites 😎
 ### CSS
 
 - [Custom CSS Checkbox and Radio Button Generator!](http://www.csscheckbox.com/css-checkbox-generator.php) - Generates custom CSS checkboxes & radio buttons from the images of unchecked and checked boxes
+
+### Vue
+
+- [How to Import a Sass File into Every Vue Component in an App](https://css-tricks.com/how-to-import-a-sass-file-into-every-vue-component-in-an-app/) - How to globally register SCSS variables
 
 ## Learning
 
