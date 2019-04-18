@@ -11,6 +11,8 @@ My personal curated list of awesome websites 😎
   - [Vue](#vue)
 - [Learning](#learning)
   - [Music](#music)
+  - [Programming](#programming)
+    - [JavaScript](#javascript)
 - [Extensions](#extensions)
   - [Mozilla Firefox](#mozilla-firefox)
   - [Visual Studio Code](#visual-studio-code)
@@ -41,7 +43,13 @@ My personal curated list of awesome websites 😎
 
 ### Music
 
-- [INDEX FOR ENJOYMENT OF MUSIC 12 iLGs](https://wwnorton.com/college/music/ilg/ENJ_12) - Teaches how to listen to legendary classcial music pieces with their interactive websites.
+- [INDEX FOR ENJOYMENT OF MUSIC 12 iLGs](https://wwnorton.com/college/music/ilg/ENJ_12) - Teaches how to listen to legendary classcial music pieces with their interactive websites
+
+### Programming
+
+#### JavaScript
+
+- [30 seconds of code](https://30secondsofcode.org) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less
 
 ## Extensions
 
