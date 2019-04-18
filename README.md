@@ -20,8 +20,15 @@ My personal curated list of awesome websites 😎
 
 ## Web development
 
+### Concepts
+
+#### Accessibility
+
+- [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet) - Accessibility guide to make the web for everyone
+
 ### CSS
 
+- [Animista](http://animista.net/play/basic/rotate) - Generates CSS animation with easy GUI
 - [Custom CSS Checkbox and Radio Button Generator!](http://www.csscheckbox.com/css-checkbox-generator.php) - Generates custom CSS checkboxes & radio buttons from the images of unchecked and checked boxes
 
 ### Vue
