@@ -5,6 +5,8 @@ My personal curated list of awesome websites 😎
 ## Table of Content <!-- omit in toc -->
 
 - [Web development](#web-development)
+  - [Concepts](#concepts)
+    - [Accessibility](#accessibility)
   - [CSS](#css)
   - [Vue](#vue)
 - [Learning](#learning)
