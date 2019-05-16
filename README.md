@@ -4,13 +4,15 @@ My personal curated list of awesome websites 😎
 
 ## Table of Content <!-- omit in toc -->
 
+- [Archives](#archives)
+  - [Music](#music)
 - [Web development](#web-development)
   - [Concepts](#concepts)
     - [Accessibility](#accessibility)
   - [CSS](#css)
   - [Vue](#vue)
 - [Learning](#learning)
-  - [Music](#music)
+  - [Music](#music-1)
   - [Programming](#programming)
     - [JavaScript](#javascript)
 - [Extensions](#extensions)
@@ -21,6 +23,12 @@ My personal curated list of awesome websites 😎
 - [Themes](#themes)
   - [Dark](#dark)
   - [Light](#light)
+
+## Archives
+
+### Music
+
+- [Musopen](https://musopen.org/music) - Archive of royalty free music, most of them are in CC, PD
 
 ## Web development
 
