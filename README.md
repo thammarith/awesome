@@ -7,6 +7,7 @@ My personal curated list of awesome websites 😎
 - [Archives](#archives)
   - [Music](#music)
 - [Web development](#web-development)
+  - [AWS](#aws)
   - [Concepts](#concepts)
     - [Accessibility](#accessibility)
   - [CSS](#css)
@@ -31,6 +32,10 @@ My personal curated list of awesome websites 😎
 - [Musopen](https://musopen.org/music) - Archive of royalty free music, most of them are in CC, PD
 
 ## Web development
+
+### AWS
+
+- [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english) - A jargon-free(?) website that explains AWS
 
 ### Concepts
 
