@@ -56,6 +56,10 @@ My personal curated list of awesome websites 😎
 - [Animista](http://animista.net/play/basic/rotate) - Generates CSS animation with easy GUI
 - [Custom CSS Checkbox and Radio Button Generator!](http://www.csscheckbox.com/css-checkbox-generator.php) - Generates custom CSS checkboxes & radio buttons from the images of unchecked and checked boxes
 
+### Demos
+
+- [The mother of all demo apps](https://github.com/gothinkster/realworld) - Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+
 ### Vue
 
 - [How to Import a Sass File into Every Vue Component in an App](https://css-tricks.com/how-to-import-a-sass-file-into-every-vue-component-in-an-app/) - How to globally register SCSS variables
